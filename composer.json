@@ -1,5 +1,5 @@
 {
-  "name":"ring/add-project-to-github",
+  "name": "ring/add-project-to-github",
   "require": {
     "monolog/monolog": "1.0.*"
   }
