@@ -6,7 +6,7 @@
  * Time: 09:32
  */
 
-namespace Ring\First;
+namespace Epet\First;
 
 
 class ShareClass
